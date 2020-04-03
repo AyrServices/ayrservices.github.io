@@ -20,7 +20,9 @@
         width: 80%;
         margin-left: 10%;
     }
-    
+
+    .section-canvas {width: 100%; padding: 0 2%;}
+
     .steps-box {margin-top: 10px;}
     .steps-box:last-child { margin-top: 40px;}
     .works-step { margin-bottom: 40px;}
@@ -52,7 +54,7 @@
     .row,
     .hero-text-box { padding: 0 4%;}
 
-    .section-canvas {padding: 0 4%;}
+    .section-canvas {width: 100%; padding: 0 2%;}
 
     .col {
         width: 100%;
@@ -167,6 +169,9 @@
     .contact-form {width: 100%;
         margin-left: 23%;
     }
+
+    .section-canvas {width: 100%; padding: 0 2%;}
+
     input[type=text],
     input[type=email],
     select,
