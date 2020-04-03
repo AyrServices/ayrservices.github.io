@@ -4,6 +4,8 @@
     width: 100%;
     padding: 0 2%;
 }
+    .section-canvas {width: 100%; padding: 0 2%;}
+
     .row { padding: 0 2%; }
     
     .contact-form {width: 100%;}
@@ -49,7 +51,9 @@
     section { padding: 30px 0;}
     .row,
     .hero-text-box { padding: 0 4%;}
-    
+
+    .section-canvas {padding: 0 4%;}
+
     .col {
         width: 100%;
         margin: 0 0 4% 0;
