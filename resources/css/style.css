@@ -80,7 +80,7 @@ h3{
 h2:after {
     display: block;
     height: 2px;
-    background-color: #00FFD4;
+    background-color: #E3D0A7;
     content: " ";
     width: 150px;
     margin: 0 auto;
@@ -103,7 +103,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #00FFD4;
+    color: #E3D0A7;
     margin-bottom: 10px;
 }
 
@@ -111,7 +111,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #00FFD4;
+    color: #E3D0A7;
     font-size: 120%;
     margin-right: 10px;
     /* secrets to align text and icons */
@@ -122,10 +122,10 @@ h2:after {
 /* ----- LINKS ----- */
 a:link,
 a:visited{
-    color: #00FFD4;
+    color: #E3D0A7;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #00FFD4;
+    border-bottom: 1px solid #E3D0A7;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -144,7 +144,7 @@ input[type=submit]{
     padding: 10px 30px;
     font-weight: 300;
     text-decoration: none;
-    border: 1px solid #00FFD4;
+    border: 1px solid #E3D0A7;
     border-radius: 200px;
     -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
     transition: background-color 0.2s, border 0.2s, color 0.2s;
@@ -153,35 +153,35 @@ input[type=submit]{
 .btn-full:link, 
 .btn-full:visited,
 input[type=submit]{
-    background-color: #00FFD4;
-    border: 1px solid #00FFD4;
+    background-color: #E3D0A7;
+    border: 1px solid #E3D0A7;
     color: #fff;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #00FFD4;
-    color: #00FFD4;
+    border: 1px solid #E3D0A7;
+    color: #E3D0A7;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #08D1FF;
+    background-color: #CCBB96;
     color: #fff;
 }
 
 .btn-full:hover 
 .btn-full:active,
 input[type=submit]{
-    border: 1px solid #00FFD4;
+    border: 1px solid #E3D0A7;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #00FFD4;
+    border: 1px solid #E3D0A7;
 }
 
 /* ---------------------------------------------- */
@@ -248,7 +248,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #00FFD4;
+    border-bottom: 2px solid #E3D0A7;
 }
 /* Mobile Navi */
 .mobile-nav-icon {
@@ -361,7 +361,7 @@ header {
     background-color: #f4f4f4;
 }
 .steps-box:first-child {
-    width: 100;
+    width: 100mm;
     height: auto;
     text-align: right;
     margin-top: 30px;
@@ -382,8 +382,8 @@ header {
     margin-bottom: 80px;
 }
 .works-step div {
-    color: #00FFD4;
-    border: 2px solid #00FFD4;
+    color: #E3D0A7;
+    border: 2px solid #E3D0A7;
     display: inline-block;
     border-radius: 50%;
     height: 45px;
@@ -508,7 +508,7 @@ cite img{
     font-size: 150%;
     margin-bottom: 10px;
     font-weight: 300;
-    color: #00FFD4;
+    color: #E3D0A7;
 }
 .plan-price span {
     font-size: 30%;
@@ -582,7 +582,7 @@ select {
     bottom: 0;
     background-color: rgba(255, 255, 255, 0.8);
     z-index: 10;
-    height: 630;
+    height: 630px;
     padding-top: 40px;
 }
 
