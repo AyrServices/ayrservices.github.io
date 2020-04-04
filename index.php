@@ -377,7 +377,7 @@
             
             
             <div class="row">
-                <form method="post" action="http://formspree.io/ayrservicesmail@gmail.com" class="contact-form">
+                <form method="post" action="mailer.php" class="contact-form">
                     
                     <div class="row">
                         <?php    
@@ -396,6 +396,7 @@
                      </div> 
                     
                     <div class="row">
+                        
                         <div class="col span-1-of-3">
                             <label for="name" class="contact-label">Name</label>
                         </div>
